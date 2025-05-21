@@ -493,12 +493,12 @@ st.markdown("""
 
 <div class="ad-banner-container">
     <div class="ad-banner-content">
-        <a href="https://www.coupang.com/vp/products/6661512526?itemId=21474551956&vendorItemId=88528821581&q=%EB%83%89%EB%8F%99%EA%B9%80%EB%B0%A5&itemsCount=36&searchId=804e976b9307816&rank=1&searchRank=1&isAddedCart=" target="_blank">
-            <img src="//thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/787750576328567-849383dc-97b2-4c51-b797-8f0a02f66dec.jpg" alt="Advertisement Banner" class="ad-banner-image">
+        <a href="https://www.coupang.com/vp/products/8184471988?itemId=20973099966&vendorItemId=3000244426&q=%EC%B4%88%EC%BD%94%EC%9A%B0%EC%9C%A0&itemsCount=36&searchId=4703042e1010975&rank=13&searchRank=13&isAddedCart=" target="_blank">
+            <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/426464513267397-b4561d17-5c39-4b36-a03f-41180b4e5125.png">
         </a>
         <div class="ad-banner-text">
-            <h4> 바바김밥 야채김밥 (냉동)</h4>
-            <p>다채로운 색감이 예쁜 야채 김밥이에요.</p>
+            <h4> 매일우</h4>
+            <p>맛도리 초코우유 드세요.</p>
         </div>
     </div>
     <div class="ad-progress-bar">
